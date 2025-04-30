@@ -72,4 +72,4 @@ Foram criadas seis visualizações principais para explorar as chegadas internac
 Os dados utilizados neste projeto foram obtidos do portal oficial de dados abertos do Governo Federal do Brasil:
 
 - **Ministério do Turismo - Dados de Chegadas Internacionais**  
-  Disponível em: [https://dados.gov.br/dados/conjuntos-dados/chegadas-de-visitantes-internacionais](https://dados.gov.br/dados/conjuntos-dados/chegadas-de-visitantes-internacionais)
+  Disponível em: [https://dados.gov.br/dados/conjuntos-dados/chegadas-de-visitantes-internacionais]([https://dados.gov.br/dados/conjuntos-dados/chegadas-de-visitantes-internacionais](https://dados.gov.br/dados/conjuntos-dados/estimativas-de-chegadas-de-turistas-internacionais-ao-brasil))
