@@ -34,21 +34,27 @@ Foram criadas seis visualizações principais para explorar as chegadas internac
 
 1. **Chegadas por Continente**  
    Total de turistas que chegaram ao Brasil, agrupados por continente de origem.
+   <img src="https://raw.githubusercontent.com/DevLass/TurismoBrasil/main/continente_chegadas.png" width="650"/>
 
 2. **Chegadas por País**  
    Comparação entre os países com maior número de visitantes ao Brasil.
+   <img src="https://raw.githubusercontent.com/DevLass/TurismoBrasil/main/pais_chegadas.png" width="650"/>
 
 3. **Chegadas por Modalidade de Transporte (Via)**  
    Análise de como os turistas chegam ao país (aéreo, marítimo, terrestre).
+   <img src="https://raw.githubusercontent.com/DevLass/TurismoBrasil/main/via_chegadas.png" width="650"/>
 
 4. **Chegadas por Mês**  
    Gráfico de linhas mostrando a sazonalidade das visitas ao longo do ano.
+   <img src="https://raw.githubusercontent.com/DevLass/TurismoBrasil/main/mes_chegadas.png" width="650"/>
 
 5. **Continente x Via**  
    Relação entre o continente de origem e a via de chegada mais utilizada.
+   <img src="https://raw.githubusercontent.com/DevLass/TurismoBrasil/main/continente_vias.png" width="650"/>
 
 6. **Chegadas por Continente ao Longo do Tempo**  
    Como a chegada de turistas de cada continente se comporta ao longo dos meses.
+   <img src="https://raw.githubusercontent.com/DevLass/TurismoBrasil/main/mes_continente.png" width="650"/>
 
 ---
 
